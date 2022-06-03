@@ -13,10 +13,9 @@ body{
 
 
 h1{
-	font-family: roboto;
 	font-weight: lighter;
 }
-img {
+#Logo {
 	height: 80px;
 	width: 80px;
 	padding: 10px;
