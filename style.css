@@ -1,0 +1,22 @@
+body{
+	background-color: #dee2e6;
+	font-family: roboto;
+}
+
+#container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	flex-direction: column;
+}
+
+
+h1{
+	font-weight: lighter;
+}
+#Logo {
+	height: 80px;
+	width: 80px;
+	padding: 10px;
+}
